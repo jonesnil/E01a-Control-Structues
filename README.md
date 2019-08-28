@@ -1,5 +1,7 @@
 # E01a-Control-Structues
 
+In this program I edited some main files and answered some questions. The main files themselves ask you what my favorite color is and the later ones respond differently with different inputs and use while loops to allow multiple attempts.
+
 Let's start writing some Python code! This is the first set of exercises for MSCH-C220; they should give you the tools to build your first game.
 
 *The computers in LI 503 should have Python, VS Code, and git already installed. These links are provided for installing those applications on your own computer:*
